@@ -14,4 +14,4 @@ As relações são do tipo 1:n Identifying, onde podemos dizer que uma turma pos
 
 # 3. Projeto
 
-O projeto proposto consiste em um To-Do List. Ele foi desenvolvido para o ambiente Web com  a proposta de mostrar outros conhecimentos, tecnologias e ferramentas. Foi desenvolvido utilizando JQuery, Javascript, CSS e HTML. O projeto Foi hospedado através do serviço Herokue pode ser acessado através do seguinte link:https://todo-list-esparta.herokuapp.com/index.html
+O projeto proposto consiste em um To-Do List. Ele foi desenvolvido para o ambiente Web com  a proposta de mostrar outros conhecimentos, tecnologias e ferramentas. Foi desenvolvido utilizando JQuery, Javascript, CSS e HTML. O projeto Foi hospedado através do serviço Heroku e pode ser acessado através do seguinte link: https://todo-list-esparta.herokuapp.com/index.html
